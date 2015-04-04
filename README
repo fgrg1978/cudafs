@@ -1,0 +1,9 @@
+Simple CUDA Memory filesystem (learning and test cuda sdk)
+
+Status: Very Alpha version
+
+
+Next version:
+- add write scheduler (increase IO performance)
+- add compress kernel process (compress memory data)
+- copy files more efficiently when they are in the gpu memory
